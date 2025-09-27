@@ -45,5 +45,8 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<!-- صلاحيات الكاميرا للمسح -->
+	<key>NSCameraUsageDescription</key>
+	<string>هذا التطبيق يحتاج للكاميرا لمسح الباركود</string>
 </dict>
 </plist>
